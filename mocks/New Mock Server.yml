@@ -1,0 +1,20 @@
+info:
+  name: New Mock Server
+  type: mock
+
+mock:
+  port: 4000
+  source:
+    type: collection
+    path: C:\Users\Bruno-Akash\OneDrive\Documents\bruno\workspce check\collections\sample-workspace\collections\Segment Tracking API for Behavioral Analytics
+
+routes:
+  - name: hh
+    request:
+      method: GET
+      url: /
+    response:
+      status: 200
+      body:
+        type: json
+        data: ""

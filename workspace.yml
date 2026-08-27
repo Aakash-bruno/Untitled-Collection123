@@ -4,15 +4,15 @@ info:
   type: workspace
 
 collections:
-  - name: "ocyaml"
-    path: "collections/sample-workspace/collections/ocyaml"
   - name: "Segment Tracking API for Behavioral Analytics"
     path: "collections/sample-workspace/collections/Segment Tracking API for Behavioral Analytics"
   - name: "test"
     path: "collections/sample-workspace/collections/test"
   - name: "TestFsSystem"
     path: "collections/sample-workspace/collections/TestFSystem"
+  - name: "Untitled Collection"
+    path: "collections/Untitled Collection"
 
 specs:
 
-docs: ''
+docs: "<br/>"
