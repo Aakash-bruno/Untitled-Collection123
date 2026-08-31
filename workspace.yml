@@ -12,6 +12,8 @@ collections:
     path: "collections/sample-workspace/collections/TestFSystem"
   - name: "Untitled Collection"
     path: "collections/Untitled Collection"
+  - name: "Dog API"
+    path: "collections/dog-v2"
 
 specs:
 
